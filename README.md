@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sivaprasad G
+# SIVAPRASAD G
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1400&color=0969DA&center=true&vCenter=true&width=880&height=45&lines=Python+Developer+%7C+Agentic+AI+%26+Azure+AI+Specialist;Azure+AI+App+%26+Agent+Developer;Microsoft+Certified+Trainer+since+2020;Reasoning+Agents+Badge+%7C+Agents+League+2026;The+model+explains.+The+code+decides." alt="Python Developer, Agentic AI and Azure AI Specialist, Microsoft Certified Trainer" />
 
